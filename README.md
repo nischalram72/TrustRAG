@@ -1,6 +1,5 @@
 # TrustRAG: Verification Engine
 
-![TrustRAG Demo](https://img.shields.io/badge/Status-Complete-success) ![License](https://img.shields.io/badge/License-MIT-blue)
 
 **Don't just answer. Prove it.**
 
@@ -37,9 +36,9 @@ We ran a benchmark of adversarial and out-of-context questions against the syste
 
 | Metric | Result |
 |--------|--------|
-| Total Questions Tested | 18 |
-| Confirmed Hallucinations | **0** |
-| Precision (Groundedness) | 100% |
+| Total Questions Tested | 192 |
+| Confirmed Hallucinations | **6** |
+| Precision (Groundedness) | 96.9% |
 
 *The system successfully identified missing context and triggered safe "refusals" instead of hallucinating data.*
 
