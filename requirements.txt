@@ -1,0 +1,6 @@
+pypdf
+chromadb
+google-generativeai
+streamlit
+python-dotenv
+tenacity
